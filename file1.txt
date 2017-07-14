@@ -2,3 +2,4 @@ Line 1: To be or not to be
 Line 2: it's a question 
 Line 3:  conflict is a conflictLine 3:  conflict is here
 Line 4: from 2Line 4: from 1
+Line 5: from 2
